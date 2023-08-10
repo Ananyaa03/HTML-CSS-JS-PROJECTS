@@ -1,5 +1,5 @@
 # HTML-CSS-JS-PROJECTS
-Added my learning and projects I made while going through the 50 HTML,CSS,JS Projects(By Dr. Sahand Ghavidel) Udemy Course.
+Added my learning and projects I made while learning HTML,CSS & JavaScdript.
 
 #PROJECT-1 
 DIGITAL CLOCK
