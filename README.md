@@ -1,5 +1,5 @@
 # HTML-CSS-JS-PROJECTS
-Added my learning and projects I made while learning HTML,CSS & JavaScdript.
+Adding my learning and projects I made while learning HTML,CSS & JavaScript.
 
 #PROJECT-1 
 DIGITAL CLOCK
