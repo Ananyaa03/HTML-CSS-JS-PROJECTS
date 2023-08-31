@@ -11,3 +11,10 @@ PRICING PANEL
 
 ![image](https://github.com/Ananyaa03/HTML-CSS-JS-PROJECTS/assets/62787867/ee606b86-5e81-4156-9abb-40d89aaeeaef)
 
+
+#3
+SIMPLE RESPONSIVE FORM USING BOOTSTRAP
+
+![image](https://github.com/Ananyaa03/HTML-CSS-JS-PROJECTS/assets/62787867/cbe6cd88-c7a2-4501-bf2d-6c57709124e6)
+
+
