@@ -19,9 +19,22 @@ SIMPLE RESPONSIVE FORM USING BOOTSTRAP
 
 #4 
 CALENDAR
+
 ![image](https://github.com/Ananyaa03/HTML-CSS-JS-PROJECTS/assets/62787867/56094f00-1ad9-4352-8398-3b1ebaddcf6a)
 
 #5
+ROTATING IMAGE GALLERY
+
+![image](https://github.com/Ananyaa03/HTML-CSS-JS-PROJECTS/assets/62787867/fbfb8ba8-3c31-4c40-9349-406fa63a49d8)
+
+#6
+VIDEO POPUP
+
+![image](https://github.com/Ananyaa03/HTML-CSS-JS-PROJECTS/assets/62787867/91f3ba52-f17c-4254-8320-4fc191785589)
+![image](https://github.com/Ananyaa03/HTML-CSS-JS-PROJECTS/assets/62787867/4471b5c7-ab45-4e82-a85d-1606ad4c9586)
+
+
+
 
 
 
