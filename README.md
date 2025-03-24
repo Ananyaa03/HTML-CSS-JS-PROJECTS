@@ -33,6 +33,10 @@ VIDEO POPUP
 ![image](https://github.com/Ananyaa03/HTML-CSS-JS-PROJECTS/assets/62787867/91f3ba52-f17c-4254-8320-4fc191785589)
 ![image](https://github.com/Ananyaa03/HTML-CSS-JS-PROJECTS/assets/62787867/4471b5c7-ab45-4e82-a85d-1606ad4c9586)
 
+#7
+SIDEBAR
+![image](https://github.com/user-attachments/assets/f64fa19d-c01a-422c-9e3d-00c93f4a1b0a)
+
 
 
 
