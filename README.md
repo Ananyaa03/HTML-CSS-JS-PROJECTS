@@ -41,4 +41,10 @@ Adding my learning and projects I made while learning HTML,CSS & JavaScript.
 ## Key Tracker
 ![image](https://github.com/user-attachments/assets/5d9e865f-0cbc-4db6-a524-40180975fe5a)
 
+## Expense Tracker
+![image](https://github.com/user-attachments/assets/a9c5277a-9707-4c6c-9221-002d42aa80d0)
+
+## TODO List
+![image](https://github.com/user-attachments/assets/86779439-7971-4a92-8ee4-ef04442c2c04)
+
 
